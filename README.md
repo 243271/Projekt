@@ -7,4 +7,4 @@ Ranking graczy
 Zliczanie wyników 
 Możliwość zresetowania gry
 
-Termin oddania 5.11
+Termin oddania 4.11
